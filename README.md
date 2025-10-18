@@ -1,6 +1,6 @@
 # Minecraft OP Manager
 ## by justTrisie
-___A tool to manage operator permissions on your Minecraft server!___
+___A tool to manage operator permissions on your Minecraft server!___ (_windows only, soz lads_)
 
 ![Requires PowerShell](https://img.shields.io/badge/REQUIRES-Windows%20PowerShell_(for_easy_install)-lightblue)    ![Requires Python](https://img.shields.io/badge/REQUIRES-Python%203-orange)   ![Minimum OS is Windows 10](https://img.shields.io/badge/MINIMUM_OS-Windows_10-009F00)
 
